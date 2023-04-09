@@ -1,0 +1,46 @@
+.Bhagya:hover{
+    color:crimson;
+    background-color: chartreuse;
+}
+
+#a:hover{
+    color:brown;
+    background-color:blue;
+
+}
+
+#b:hover{
+    color:blueviolet;
+    background-color: coral;
+}
+
+#c:hover{
+    color:chocolate;
+    background-color:darkturquoise;
+}
+
+#d:hover{
+    color:darkgreen;
+    background-color: darkgray;
+}
+
+#e:hover{
+    color:fuchsia;
+    background-color: darkblue;
+}
+
+#f:hover{
+    color:gold;
+    background-color: hotpink;
+}
+
+#g:hover{
+    color:darkmagenta;
+    background-color: darkgreen;
+}
+
+#h:hover{
+    color:aqua;
+    background-color: brown;
+}
+
